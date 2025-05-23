@@ -1,0 +1,38 @@
+<section class="container contact-section my-5">
+    <div class="card shadow-lg p-4 border-0">
+        <h2 class="text-primary mb-3">Let's Talk!</h2>
+        <p class="mb-4">
+            Want to discuss a project, job opportunity, or just connect? Send me a message using the form below or reach
+            me directly at:
+        </p>
+
+        <ul class="list-unstyled mb-4">
+            <li><strong>Email:</strong> <a [href]="links.contactEmail">{{links.contactEmail}}</a></li>
+            <li><strong>LinkedIn:</strong> <a [href]="links.contactLinkedIn"
+                    target="_blank">{{links.contactLinkedIn}}</a></li>
+            <li><strong>GitHub:</strong> <a [href]="links.contactGitHub" target="_blank">{{links.contactGitHub}}</a>
+            </li>
+        </ul>
+
+        <!-- Optional Contact Form -->
+        <form [formGroup]="SignupForm" (ngSubmit)="onSubmit()">
+            <div formGroupName="userData">
+                <!-- <div class="form-group"> -->
+                <div class="form-group mb-3">
+                    <label class="form-label" for="username">Name</label>
+                    <input type="text" class="form-control" formControlName="username">
+                </div>
+                <div class="form-group mb-3">
+                    <label class="form-label" for="email">Email</label>
+                    <input type="email" class="form-control" formControlName="email">
+                </div>
+                <div class="form-group mb-3">
+                    <label class="form-label" for="message">Message</label>
+                    <textarea rows="4" class="form-control" formControlName="message"></textarea>
+                </div>
+                <button class="btn btn-primary" type="submit">Send Message</button>
+                <!-- </div> -->
+            </div>
+        </form>
+    </div>
+</section>

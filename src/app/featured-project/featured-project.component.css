@@ -1,0 +1,37 @@
+.card {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.card img {
+    height: 14rem;
+}
+
+.row {
+    display: ruby;
+}
+
+/* Apply flex row and wrap */
+.custom-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Default: < 768px (mobile) = 2 columns */
+.custom-row-cols-responsive>* {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+/* >= 768px (md and above) = 4 columns */
+@media (min-width: 768px) {
+    .custom-row-cols-responsive>* {
+        width: 25%;
+    }
+}
+
+@media (max-width: 400px) {
+    .custom-row-cols-responsive>* {
+        width: 100%;
+    }
+}

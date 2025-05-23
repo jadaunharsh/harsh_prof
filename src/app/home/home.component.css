@@ -1,0 +1,17 @@
+header {
+    background: linear-gradient(90deg, #4e54c8 0%, #8f94fb 100%);
+    color: #fff;
+    padding: 24px 0;
+    text-align: center;
+    font-size: 2rem;
+    box-shadow: 0 2px 8px rgba(78, 84, 200, 0.1);
+}
+
+footer {
+    background: linear-gradient(90deg, #232526 0%, #414345 100%);
+    color: #fff;
+    padding: 16px 0;
+    text-align: center;
+    font-size: 1.1rem;
+    box-shadow: 0 -2px 8px rgba(35, 37, 38, 0.1);
+}

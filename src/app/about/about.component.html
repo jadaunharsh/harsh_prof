@@ -1,0 +1,52 @@
+<div class="container my-5">
+    <div class="card shadow-lg p-4 border-0">
+        <h2 class="mb-3 text-primary">About Me</h2>
+        <p class="lead">{{ summary }}</p>
+
+        <hr />
+
+        <h4 class="text-dark mb-3">Highlights</h4>
+        <ul class="list-group list-group-flush mb-4">
+            @for (point of highlights; track $index) {
+            <li class="list-group-item">
+                <i class="bi bi-check-circle text-success me-2"></i>{{ point }}
+            </li>
+            }
+        </ul>
+
+        <h4 class="text-dark mb-3">Technical Skills</h4>
+        <div class="mb-4">
+            @for (skill of skills; track $index) {
+            <span class="badge bg-secondary m-1">{{ skill }}</span>
+            }
+        </div>
+
+        <blockquote class="blockquote text-muted fst-italic">
+            <p>"{{ personalQuote }}"</p>
+        </blockquote>
+    </div>
+</div>
+
+<!-- Let's Connect Section -->
+<section id="connect" class="container my-5">
+    <div class="card shadow-lg p-4 border-0">
+        <h2 class="mb-3 text-primary" data-aos="fade-up">Let's Connect</h2>
+        <p class="lead" data-aos="fade-up" data-aos-delay="200">
+            I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
+        </p>
+        <div class="d-flex justify-content-center mt-4" data-aos="fade-up" data-aos-delay="400">
+            <a [href]="links.resumeUrl" target="_blank" class="btn btn-outline-primary">
+                <i class="bi bi-file-earmark-arrow-down me-1"></i> Download Resume
+            </a>
+            <a [href]="links.contactLinkedIn" target="_blank" class="btn btn-outline-primary mx-2">
+                <i class="bi bi-linkedin"></i> LinkedIn
+            </a>
+            <a [href]="links.contactGitHub" target="_blank" class="btn btn-outline-dark mx-2">
+                <i class="bi bi-github"></i> GitHub
+            </a>
+            <a [href]="links.contactEmail" class="btn btn-primary mx-2">
+                <i class="bi bi-envelope-fill"></i> Email Me
+            </a>
+        </div>
+    </div>
+</section>
