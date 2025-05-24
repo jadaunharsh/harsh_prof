@@ -1,0 +1,1435 @@
+{
+  "Attachments": true,
+  "VerifiableCredentials": {
+    "docsId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+    "userCredentials": []
+  },
+  "Assessments": null,
+  "Progress": {
+    "completedLearningItems": [
+      {
+        "title": "learn.languages.csharp-choose-data-type.introduction",
+        "type": "unit",
+        "completedAt": "2022-05-09T21:43:54.9084828Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type.value-reference-types",
+        "type": "unit",
+        "completedAt": "2022-05-09T21:43:55.1516996Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type.exercise-integral-types",
+        "type": "unit",
+        "completedAt": "2022-05-09T21:43:55.3325239Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type.exercise-floating-point-types",
+        "type": "unit",
+        "completedAt": "2022-05-09T21:43:55.5521294Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type.exercise-reference-types",
+        "type": "unit",
+        "completedAt": "2022-05-09T21:43:56.0287111Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type.choose-right-data-type",
+        "type": "unit",
+        "completedAt": "2024-12-29T17:18:51.2797735Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type.knowledge-check",
+        "type": "unit",
+        "completedAt": "2024-12-29T17:24:35.1351985Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type.summary",
+        "type": "unit",
+        "completedAt": "2024-12-29T17:24:50.6127822Z"
+      },
+      {
+        "title": "learn.languages.csharp-choose-data-type",
+        "type": "module",
+        "completedAt": "2024-12-29T17:24:50.612796Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.introduction",
+        "type": "unit",
+        "completedAt": "2022-05-11T19:53:14.2039835Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.what-is-cloud-computing",
+        "type": "unit",
+        "completedAt": "2022-05-11T19:53:46.4779342Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.what-is-microsoft-azure",
+        "type": "unit",
+        "completedAt": "2022-05-11T19:59:09.504092Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.tour-of-azure-services",
+        "type": "unit",
+        "completedAt": "2022-05-11T20:05:36.1335766Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.get-started-with-azure-accounts",
+        "type": "unit",
+        "completedAt": "2022-05-11T20:06:43.0560777Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.case-study-introduction",
+        "type": "unit",
+        "completedAt": "2022-05-11T20:06:57.8496112Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.summary",
+        "type": "unit",
+        "completedAt": "2022-05-11T20:08:14.6873311Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.introduction-microsoft-azure-fundamentals",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:56.8517902Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.introduction-cloud-compute",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:57.0566446Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.what-cloud-compute",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:57.2325668Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.describe-shared-responsibility-model",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:57.4021667Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.define-cloud-models",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:57.5851623Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.describe-consumption-based-model",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:57.7604765Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:57.9342703Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.summary",
+        "type": "unit",
+        "completedAt": "2023-01-21T19:01:58.2309192Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute",
+        "type": "module",
+        "completedAt": "2023-01-21T19:01:58.230939Z"
+      },
+      {
+        "title": "learn.languages.csharp-write-first.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-23T16:43:02.0884279Z"
+      },
+      {
+        "title": "learn.languages.csharp-write-first.exercise-hello-world",
+        "type": "unit",
+        "completedAt": "2023-02-23T16:43:36.663079Z"
+      },
+      {
+        "title": "learn.wwl.introduction-to-azure-app-service.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-28T07:47:27.3638522Z"
+      },
+      {
+        "title": "learn.wwl.introduction-to-azure-app-service.azure-app-service",
+        "type": "unit",
+        "completedAt": "2023-02-28T07:47:34.3360327Z"
+      },
+      {
+        "title": "learn.wwl.introduction-to-azure-app-service.azure-app-service-plans",
+        "type": "unit",
+        "completedAt": "2023-02-28T08:13:11.2665611Z"
+      },
+      {
+        "title": "learn.wwl.introduction-to-azure-app-service.deploy-code-to-app-service",
+        "type": "unit",
+        "completedAt": "2024-12-29T17:29:07.9294219Z"
+      },
+      {
+        "title": "learn.wwl.introduction-to-azure-app-service.authentication-authorization",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:13:09.3688735Z"
+      },
+      {
+        "title": "learn.wwl.introduction-to-azure-app-service.networking-features",
+        "type": "unit",
+        "completedAt": "2025-05-14T06:50:08.0213385Z"
+      },
+      {
+        "title": "learn.wwl.introduction-to-azure-app-service.exercise-create-static-html-web-app-by-using-azure-cloud-shell",
+        "type": "unit",
+        "completedAt": "2025-05-20T12:46:15.6021807Z"
+      },
+      {
+        "title": "learn.azdo.assess-your-development-process.1-introduction",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:05:18.3165444Z"
+      },
+      {
+        "title": "learn.azdo.assess-your-development-process.2-meet-the-team",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:05:18.4952942Z"
+      },
+      {
+        "title": "learn.azdo.assess-your-development-process.3-release-process",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:05:18.6790677Z"
+      },
+      {
+        "title": "learn.azdo.assess-your-development-process.4-assess-process-efficiency",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:05:18.8540355Z"
+      },
+      {
+        "title": "learn.azdo.assess-your-development-process.5-summary",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:05:27.153816Z"
+      },
+      {
+        "title": "learn.azdo.assess-your-development-process",
+        "type": "module",
+        "completedAt": "2024-03-16T19:05:27.1538251Z"
+      },
+      {
+        "title": "learn.get-started-with-devops.1-introduction",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:07:34.0351878Z"
+      },
+      {
+        "title": "learn.get-started-with-devops.2-what-is-devops",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:09:45.5336656Z"
+      },
+      {
+        "title": "learn.get-started-with-devops.3-what-is-azure-devops",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:33:56.0899056Z"
+      },
+      {
+        "title": "learn.get-started-with-devops.4-create-an-azure-devops-account",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:34:57.3166985Z"
+      },
+      {
+        "title": "learn.get-started-with-devops.5-summary",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:40:05.1829708Z"
+      },
+      {
+        "title": "learn.get-started-with-devops",
+        "type": "module",
+        "completedAt": "2024-03-16T19:40:05.182979Z"
+      },
+      {
+        "title": "learn.wwl.query-multiple-tables-with-joins.inner-joins",
+        "type": "unit",
+        "completedAt": "2024-03-16T19:47:56.0797438Z"
+      },
+      {
+        "title": "learn.azdo.choose-an-agile-approach.1-introduction",
+        "type": "unit",
+        "completedAt": "2024-03-17T18:56:10.4459695Z"
+      },
+      {
+        "title": "learn.azdo.choose-an-agile-approach.2-what-is-agile",
+        "type": "unit",
+        "completedAt": "2024-05-05T06:36:52.8659212Z"
+      },
+      {
+        "title": "learn.azdo.choose-an-agile-approach.3-what-is-azure-boards",
+        "type": "unit",
+        "completedAt": "2024-08-11T15:44:33.5688567Z"
+      },
+      {
+        "title": "learn.azdo.choose-an-agile-approach.4-plan-work-azure-boards",
+        "type": "unit",
+        "completedAt": "2024-08-11T15:44:55.1842903Z"
+      },
+      {
+        "title": "learn.azdo.choose-an-agile-approach.5-summary",
+        "type": "unit",
+        "completedAt": "2024-08-11T16:02:26.6634331Z"
+      },
+      {
+        "title": "learn.azdo.choose-an-agile-approach",
+        "type": "module",
+        "completedAt": "2024-08-11T16:02:26.663442Z"
+      },
+      {
+        "title": "learn.introduction-dotnet-aspire.what",
+        "type": "unit",
+        "completedAt": "2024-08-10T18:58:36.8600933Z"
+      },
+      {
+        "title": "learn.introduction-dotnet-aspire.learn-about-components",
+        "type": "unit",
+        "completedAt": "2024-08-10T18:58:37.0059087Z"
+      },
+      {
+        "title": "learn.introduction-dotnet-aspire.learn-about-tools",
+        "type": "unit",
+        "completedAt": "2024-08-10T18:58:37.1444006Z"
+      },
+      {
+        "title": "learn.introduction-dotnet-aspire.exercise-use-eshop",
+        "type": "unit",
+        "completedAt": "2024-08-10T18:58:37.3163864Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.1-introduction",
+        "type": "unit",
+        "completedAt": "2024-08-11T16:06:18.9903362Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.2-what-are-delivery-plans",
+        "type": "unit",
+        "completedAt": "2024-08-11T16:09:36.1672369Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.3-what-is-delivery-plans",
+        "type": "unit",
+        "completedAt": "2024-08-11T16:38:10.8145625Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.4-set-up-environment",
+        "type": "unit",
+        "completedAt": "2024-08-11T16:38:53.7823839Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.5-plan-sprint-delivery-plans",
+        "type": "unit",
+        "completedAt": "2024-08-11T16:44:35.9068131Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.6-track-dependencies-delivery-plans",
+        "type": "unit",
+        "completedAt": "2024-08-11T16:56:08.1588449Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.7-clean-up-environment",
+        "type": "unit",
+        "completedAt": "2024-08-11T17:05:55.3165416Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans.8-summary",
+        "type": "unit",
+        "completedAt": "2024-08-11T17:07:18.4971103Z"
+      },
+      {
+        "title": "learn.azdo.manage-delivery-plans",
+        "type": "module",
+        "completedAt": "2024-08-11T17:07:18.4971232Z"
+      },
+      {
+        "title": "learn.azdo.create-a-build-pipeline.1-introduction",
+        "type": "unit",
+        "completedAt": "2024-09-26T11:43:51.6428574Z"
+      },
+      {
+        "title": "learn.aspnetcore-middleware.intro",
+        "type": "unit",
+        "completedAt": "2025-02-21T10:43:55.4358892Z"
+      },
+      {
+        "title": "learn.aspnetcore-middleware.understand-middleware",
+        "type": "unit",
+        "completedAt": "2025-02-21T12:38:32.5867553Z"
+      },
+      {
+        "title": "learn.aspnetcore-middleware.exercise-built-in-middleware",
+        "type": "unit",
+        "completedAt": "2025-02-21T17:36:53.6370709Z"
+      },
+      {
+        "title": "learn.aspnetcore-middleware.exercise-custom-middleware",
+        "type": "unit",
+        "completedAt": "2025-02-21T17:47:05.9510929Z"
+      },
+      {
+        "title": "learn.aspnetcore-middleware.knowledge-check",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:03:05.3569562Z"
+      },
+      {
+        "title": "learn.aspnetcore-middleware.summary",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:03:24.211276Z"
+      },
+      {
+        "title": "learn.aspnetcore-middleware",
+        "type": "module",
+        "completedAt": "2025-02-21T18:03:24.2112834Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-functions.introduction",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:16:03.0333438Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-functions.discover",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:17:21.8483305Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-functions.compare-hosting-options",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:29:59.6581818Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-functions.scale",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:32:50.8723404Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-functions.knowledge-check",
+        "type": "unit",
+        "completedAt": "2025-03-23T17:20:28.1810172Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-functions.summary",
+        "type": "unit",
+        "completedAt": "2025-03-23T17:20:50.5855832Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-functions",
+        "type": "module",
+        "completedAt": "2025-03-23T17:20:50.5855947Z"
+      },
+      {
+        "title": "learn.orleans-build-first-app.introduction",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:42:41.7809868Z"
+      },
+      {
+        "title": "learn.azure.improve-developer-experience-of-an-api-with-swagger-documentation.introduction",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:44:37.6868838Z"
+      },
+      {
+        "title": "learn.azure.improve-developer-experience-of-an-api-with-swagger-documentation.publish-openapi-documentation",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:51:52.5612758Z"
+      },
+      {
+        "title": "learn.azure.improve-developer-experience-of-an-api-with-swagger-documentation.exercise-enable-swagger-and-swashbuckle",
+        "type": "unit",
+        "completedAt": "2025-02-21T18:58:02.0920377Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code.introduction",
+        "type": "unit",
+        "completedAt": "2025-02-25T12:26:34.8744846Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code.explore-default-interface-implementation",
+        "type": "unit",
+        "completedAt": "2025-02-25T13:32:35.8955045Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code.define-method-interface-parameter",
+        "type": "unit",
+        "completedAt": "2025-02-25T13:44:38.3221066Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code.learn-system-defined-interfaces",
+        "type": "unit",
+        "completedAt": "2025-02-25T13:53:49.4767277Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code.exercise-create-flexible-code-with-interfaces",
+        "type": "unit",
+        "completedAt": "2025-02-25T14:27:12.837698Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code.knowledge-check",
+        "type": "unit",
+        "completedAt": "2025-02-25T18:03:19.5361672Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code.summary",
+        "type": "unit",
+        "completedAt": "2025-02-25T18:04:21.3180849Z"
+      },
+      {
+        "title": "learn.wwl.apply-interfaces-code",
+        "type": "module",
+        "completedAt": "2025-02-25T18:04:21.3180982Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.introduction",
+        "type": "unit",
+        "completedAt": "2025-02-25T18:19:59.0029777Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.understand-interfaces",
+        "type": "unit",
+        "completedAt": "2025-02-25T18:36:31.8623963Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.create-interface-properties",
+        "type": "unit",
+        "completedAt": "2025-02-25T18:42:52.5792283Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.create-interface-methods",
+        "type": "unit",
+        "completedAt": "2025-02-25T18:57:26.1756175Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.understand-value-interfaces",
+        "type": "unit",
+        "completedAt": "2025-02-25T19:03:09.565745Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.exercise-implement-interfaces-project",
+        "type": "unit",
+        "completedAt": "2025-02-25T19:11:10.3408758Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.knowledge-check",
+        "type": "unit",
+        "completedAt": "2025-02-25T19:29:34.5989609Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces.summary",
+        "type": "unit",
+        "completedAt": "2025-02-25T19:31:14.5319496Z"
+      },
+      {
+        "title": "learn.wwl.discover-interfaces",
+        "type": "module",
+        "completedAt": "2025-02-25T19:31:14.531961Z"
+      },
+      {
+        "title": "learn.secure-aspnet-core-identity.6-multi-factor-authentication",
+        "type": "unit",
+        "completedAt": "2025-02-26T20:21:38.7452472Z"
+      },
+      {
+        "title": "learn.secure-aspnet-core-identity.7-configure-multi-factor-authentication",
+        "type": "unit",
+        "completedAt": "2025-02-26T20:21:50.2855907Z"
+      },
+      {
+        "title": "learn.secure-aspnet-core-identity.1-introduction",
+        "type": "unit",
+        "completedAt": "2025-03-12T06:23:44.7130887Z"
+      },
+      {
+        "title": "learn.secure-aspnet-core-identity.2-understand-aspnetcore-identity",
+        "type": "unit",
+        "completedAt": "2025-03-12T07:00:38.7630053Z"
+      },
+      {
+        "title": "learn.secure-aspnet-core-identity.3-add-identity",
+        "type": "unit",
+        "completedAt": "2025-03-12T07:00:43.3803857Z"
+      },
+      {
+        "title": "learn.secure-aspnet-core-identity.4-identity-customizations",
+        "type": "unit",
+        "completedAt": "2025-03-12T09:00:54.716525Z"
+      },
+      {
+        "title": "learn.secure-aspnet-core-identity.5-customize-identity",
+        "type": "unit",
+        "completedAt": "2025-03-12T09:01:02.2734721Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.introduction",
+        "type": "unit",
+        "completedAt": "2025-03-25T17:52:39.952155Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.high-availability-scalability-cloud",
+        "type": "unit",
+        "completedAt": "2025-03-25T17:54:01.7066886Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.reliability-predictability-cloud",
+        "type": "unit",
+        "completedAt": "2025-03-25T18:03:31.9605742Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.security-governance-cloud",
+        "type": "unit",
+        "completedAt": "2025-03-25T18:13:33.0125489Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.manageability-cloud",
+        "type": "unit",
+        "completedAt": "2025-03-25T18:21:29.3571332Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.knowledge-check",
+        "type": "unit",
+        "completedAt": "2025-03-25T18:26:05.3238471Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.summary",
+        "type": "unit",
+        "completedAt": "2025-03-25T18:26:27.4729825Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services",
+        "type": "module",
+        "completedAt": "2025-03-25T18:26:27.4729932Z"
+      }
+    ],
+    "learningPathPasses": [],
+    "moduleAssessments": [
+      {
+        "moduleUid": "learn.languages.csharp-choose-data-type",
+        "moduleAssessmentPassed": false,
+        "moduleAssessmentPreviousAttempts": [
+          {
+            "questionsToPass": 3,
+            "questionsToTake": 3,
+            "questionsAnsweredCorrectly": 2,
+            "sessionEndDate": "2024-12-29T17:24:35.0486652Z",
+            "passCriteria": 100
+          }
+        ]
+      },
+      {
+        "moduleUid": "learn.aspnetcore-middleware",
+        "moduleAssessmentPassed": true,
+        "moduleAssessmentPassedOn": "2025-02-21T18:03:05.2712802Z",
+        "moduleAssessmentPreviousAttempts": [
+          {
+            "questionsToPass": 3,
+            "questionsToTake": 3,
+            "questionsAnsweredCorrectly": 3,
+            "sessionEndDate": "2025-02-21T18:03:05.2712802Z",
+            "passCriteria": 100
+          }
+        ]
+      },
+      {
+        "moduleUid": "learn.wwl.apply-interfaces-code",
+        "moduleAssessmentPassed": true,
+        "moduleAssessmentPassedOn": "2025-02-25T18:04:04.715843Z",
+        "moduleAssessmentPreviousAttempts": [
+          {
+            "questionsToPass": 3,
+            "questionsToTake": 3,
+            "questionsAnsweredCorrectly": 3,
+            "sessionEndDate": "2025-02-25T18:04:04.715843Z",
+            "passCriteria": 100
+          },
+          {
+            "questionsToPass": 3,
+            "questionsToTake": 3,
+            "questionsAnsweredCorrectly": 2,
+            "sessionEndDate": "2025-02-25T18:03:19.4499361Z",
+            "passCriteria": 100
+          }
+        ]
+      },
+      {
+        "moduleUid": "learn.wwl.discover-interfaces",
+        "moduleAssessmentPassed": true,
+        "moduleAssessmentPassedOn": "2025-02-25T19:31:05.8407985Z",
+        "moduleAssessmentPreviousAttempts": [
+          {
+            "questionsToPass": 4,
+            "questionsToTake": 4,
+            "questionsAnsweredCorrectly": 4,
+            "sessionEndDate": "2025-02-25T19:31:05.8407985Z",
+            "passCriteria": 100
+          },
+          {
+            "questionsToPass": 4,
+            "questionsToTake": 4,
+            "questionsAnsweredCorrectly": 2,
+            "sessionEndDate": "2025-02-25T19:29:34.516286Z",
+            "passCriteria": 100
+          }
+        ]
+      },
+      {
+        "moduleUid": "learn.wwl.explore-azure-functions",
+        "moduleAssessmentPassed": true,
+        "moduleAssessmentPassedOn": "2025-03-23T17:20:28.0822649Z",
+        "moduleAssessmentPreviousAttempts": [
+          {
+            "questionsToPass": 3,
+            "questionsToTake": 3,
+            "questionsAnsweredCorrectly": 3,
+            "sessionEndDate": "2025-03-23T17:20:28.0822649Z",
+            "passCriteria": 100
+          }
+        ]
+      },
+      {
+        "moduleUid": "learn.wwl.describe-benefits-use-cloud-services",
+        "moduleAssessmentPassed": true,
+        "moduleAssessmentPassedOn": "2025-03-25T18:26:05.241267Z",
+        "moduleAssessmentPreviousAttempts": [
+          {
+            "questionsToPass": 2,
+            "questionsToTake": 2,
+            "questionsAnsweredCorrectly": 2,
+            "sessionEndDate": "2025-03-25T18:26:05.241267Z",
+            "passCriteria": 100
+          }
+        ]
+      }
+    ]
+  },
+  "NextSteps": {
+    "docsId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+    "dismissals": [],
+    "enrollments": [
+      {
+        "id": "93be91f0-d8ad-4537-9b0a-d837d89b88a7",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.az-900-describe-cloud-concepts",
+        "_ts": 1652298796
+      },
+      {
+        "id": "ff51e257-d50a-4ecf-94d3-976e5dcdda04",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts",
+        "_ts": 1674327726
+      },
+      {
+        "id": "5c187e2f-02a5-44d8-8462-670e82ee3838",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "yz26f8y64n7k07",
+        "_ts": 1677170496
+      },
+      {
+        "id": "4b59dc0c-a6a4-4d10-9662-6e236267c220",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.languages.csharp-first-steps",
+        "_ts": 1677170612
+      },
+      {
+        "id": "4f082898-bc19-4441-9bd8-98d32170128c",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.wwl.create-azure-app-service-web-apps",
+        "_ts": 1677570448
+      },
+      {
+        "id": "a9ec1cdb-be68-4b70-85ea-a1c7b69b3da0",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.azdo.evolve-your-devops-practices",
+        "_ts": 1710616028
+      },
+      {
+        "id": "82e8fa3d-74a5-4446-bb90-2b2e2b4a03ff",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.azdo.build-applications-with-azure-devops",
+        "_ts": 1727351032
+      },
+      {
+        "id": "4c69803f-df1b-4476-9d98-c45e505f8924",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "wrm2co13y77mrg",
+        "_ts": 1735492379
+      },
+      {
+        "id": "8cd230fa-9bf3-46af-a36c-727e3089f040",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "0npqb648rzw82x",
+        "_ts": 1735494016
+      },
+      {
+        "id": "4a70352e-cda0-43a4-8a1d-0ddd2f339469",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "bookmarks",
+        "_ts": 1735494728
+      },
+      {
+        "id": "185080ed-9a63-400b-be7e-1d7ef844e836",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "n6ga8m0jkgrwk",
+        "_ts": 1738571136
+      },
+      {
+        "id": "9f9f4222-7536-48a0-949c-c5f77f448c06",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.aspnet-core-fundamentals",
+        "_ts": 1740161047
+      },
+      {
+        "id": "5c20391d-f8e3-491c-91e5-8dee4682b4fb",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "mpdoto6exnpe35",
+        "_ts": 1740165342
+      },
+      {
+        "id": "fc0eec39-0ec2-49ae-a044-b857332bad67",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "2md8ip7z51wd47",
+        "_ts": 1740165779
+      },
+      {
+        "id": "36accb0d-d560-42ef-9e01-508c4fa74b73",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "learningpath",
+        "sourceId": "learn.wwl.implement-interfaces-new",
+        "_ts": 1740506695
+      },
+      {
+        "id": "58fadfa5-87d8-4eb7-8778-89e249612cb0",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "w2n0fztqmkpy8",
+        "_ts": 1740601094
+      },
+      {
+        "id": "82138019-026c-48f5-8aa4-d43dbd02d944",
+        "partitionKey": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "sourceType": "collection",
+        "sourceId": "7porc8txzk17w5",
+        "_ts": 1742908899
+      }
+    ]
+  },
+  "Lists": {
+    "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+    "lists": [
+      {
+        "id": "7porc8txzk17w5",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "name": "Azure",
+        "description": "",
+        "type": "collection",
+        "lastModified": "2025-03-25T13:45:21+00:00",
+        "totalItems": 6,
+        "items": [
+          {
+            "id": "7porc8txzk17w5_docs-44D18491ED5A600312B169E288216BBE",
+            "listId": "7porc8txzk17w5",
+            "type": "docs",
+            "data": {
+              "url": "/training/courses/az-900t00",
+              "rawUrl": "https://learn.microsoft.com/en-gb/training/courses/az-900t00",
+              "title": "Course AZ-900T00-A: Microsoft Azure Fundamentals - Training",
+              "docId": "cd849714-4b2f-49fe-ba87-97800c94557f",
+              "docVIId": "f7bf26dc-c3da-ec2c-c261-bd969727cbf9",
+              "platformId": "a0a53bee-4e74-4aae-d7a2-1b11bcc81195",
+              "pageType": "learn",
+              "pageKind": "course",
+              "uid": "course.az-900t00",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-03-25T13:44:25+00:00"
+          },
+          {
+            "id": "7porc8txzk17w5_docs-49F19494666F35B9948C3C87921C0A53",
+            "listId": "7porc8txzk17w5",
+            "type": "docs",
+            "data": {
+              "url": "/credentials/certifications/azure-fundamentals/",
+              "rawUrl": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-fundamentals/",
+              "title": "Microsoft Certified: Azure Fundamentals - Certifications",
+              "docId": "ef3183a3-0557-8689-18f1-f95e826f2863",
+              "docVIId": "ef3183a3-0557-8689-18f1-f95e826f2863",
+              "platformId": "4008340f-c88d-7438-9d3e-adaea2f2dc13",
+              "pageType": "learn",
+              "pageKind": "certification",
+              "uid": "certification.azure-fundamentals",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-02-27T01:56:36+00:00"
+          },
+          {
+            "id": "7porc8txzk17w5_docs-10FCAFA6A0FCDA2ACE1B29D1AEA5967F",
+            "listId": "7porc8txzk17w5",
+            "type": "docs",
+            "data": {
+              "url": "/training/paths/implement-azure-functions/",
+              "rawUrl": "https://learn.microsoft.com/en-gb/training/paths/implement-azure-functions/",
+              "title": "AZ-204: Implement Azure Functions - Training",
+              "docId": "e753ccb0-6b46-28b7-f4a0-406cefb823b8",
+              "docVIId": "fd5ed7ae-1f69-827d-7026-7d7dfb68cffa",
+              "platformId": "7d41ad05-c061-fd94-e546-cc992d9ae68d",
+              "pageType": "learn",
+              "pageKind": "path",
+              "uid": "learn.wwl.implement-azure-functions",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-03-23T17:21:35+00:00"
+          },
+          {
+            "id": "7porc8txzk17w5_docs-E82F4A0A6D13CD5E8BC61262F770ED32",
+            "listId": "7porc8txzk17w5",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/configure-web-app-settings/",
+              "rawUrl": "https://learn.microsoft.com/en-gb/training/modules/configure-web-app-settings/",
+              "title": "Configure web app settings - Training",
+              "docId": "88096c22-f183-7aed-71d5-e7eed8367e3d",
+              "docVIId": "954496de-da55-2b81-b2fe-247fd20bf82e",
+              "platformId": "d8183b18-4e28-b2a5-38a4-e2382ca7738c",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.configure-web-app-settings",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-03-23T17:21:58+00:00"
+          },
+          {
+            "id": "7porc8txzk17w5_docs-F8094EC9311E0E3C58AC966659769076",
+            "listId": "7porc8txzk17w5",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/develop-azure-functions/",
+              "rawUrl": "https://learn.microsoft.com/en-gb/training/modules/develop-azure-functions/",
+              "title": "Develop Azure Functions - Training",
+              "docId": "0aebccb7-c023-9e86-3262-531af4ea2187",
+              "docVIId": "527fe1d6-b7da-8b69-ca63-a6154063a49d",
+              "platformId": "0aa96bb8-3960-6652-2a92-98986a46c507",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.develop-azure-functions",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-03-23T17:22:06+00:00"
+          },
+          {
+            "id": "7porc8txzk17w5_docs-EC9E6115E7D4B4C054D8BD35A8D39035",
+            "listId": "7porc8txzk17w5",
+            "type": "docs",
+            "data": {
+              "url": "/training/paths/build-workflows-with-logic-apps/",
+              "rawUrl": "https://learn.microsoft.com/en-gb/training/paths/build-workflows-with-logic-apps/",
+              "title": "Automate business processes by building integration workflows in Azure Logic Apps - Training",
+              "docId": "2d976d34-501f-84f0-b98c-e2e7db0f54f9",
+              "docVIId": "30bad5ed-e5a2-4155-7551-9eede9da168f",
+              "platformId": "07a68fb1-23e6-9c88-599a-54691e100746",
+              "pageType": "learn",
+              "pageKind": "path",
+              "uid": "learn.build-workflows-with-logic-apps",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-03-23T17:22:17+00:00"
+          }
+        ],
+        "itemCount": 6,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": false,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      },
+      {
+        "id": "672wh7tj7r6x2q",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "name": "Azure204",
+        "description": "",
+        "type": "collection",
+        "lastModified": "2025-03-25T13:23:53+00:00",
+        "totalItems": 1,
+        "items": [
+          {
+            "id": "672wh7tj7r6x2q_docs-DBD95DB37D26B4E6894BCB0144B473E8",
+            "listId": "672wh7tj7r6x2q",
+            "type": "docs",
+            "data": {
+              "url": "/training/courses/az-204t00",
+              "rawUrl": "https://learn.microsoft.com/en-gb/training/courses/az-204t00",
+              "title": "Course AZ-204T00-A: Developing Solutions for Microsoft Azure - Training",
+              "docId": "246fb729-d19c-a624-b74c-d479f07215cc",
+              "docVIId": "dd57d085-7129-0bdc-e5fa-1f36d7b03f19",
+              "platformId": "15307116-53c6-570e-e1c5-d6ffe1f98410",
+              "pageType": "learn",
+              "pageKind": "course",
+              "uid": "course.az-204t00",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-03-25T13:23:53+00:00"
+          }
+        ],
+        "itemCount": 1,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": true,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      },
+      {
+        "id": "w2n0fztqmkpy8",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "name": "EFCore",
+        "description": "",
+        "type": "collection",
+        "lastModified": "2025-02-21T18:41:37+00:00",
+        "totalItems": 1,
+        "items": [
+          {
+            "id": "w2n0fztqmkpy8_docs-0999F41010E07C7959E9804E05FD2CED",
+            "listId": "w2n0fztqmkpy8",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/secure-aspnet-core-identity/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/",
+              "title": "Secure a .NET web app with the ASP.NET Core Identity framework - Training",
+              "docId": "2e45bc30-08ca-9f20-ab53-b8e22ead1179",
+              "docVIId": "378f791e-c4ee-7e34-1da7-496ea42ff8ee",
+              "platformId": "358c04f9-444e-9081-9097-6c19db3bb579",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.secure-aspnet-core-identity",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2025-02-21T18:41:37+00:00"
+          }
+        ],
+        "itemCount": 1,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": false,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      },
+      {
+        "id": "bookmarks",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "name": "Bookmarks",
+        "description": "",
+        "type": "bookmarks",
+        "lastModified": "2025-02-21T18:41:37+00:00",
+        "totalItems": 1,
+        "items": [
+          {
+            "id": "bookmarks_docs-D2AE0CE21E16B0D718E26E7B84BBF2E7",
+            "listId": "bookmarks",
+            "type": "docs",
+            "data": {
+              "url": "/training/paths/develop-asp-core-api/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/paths/develop-asp-core-api/",
+              "title": "Develop an ASP.NET Core web app that consumes an API AZ-2002 - Training",
+              "docId": "419982fc-eb78-b664-14a3-6156f5dd5867",
+              "docVIId": "419982fc-eb78-b664-14a3-6156f5dd5867",
+              "pageType": "learn",
+              "pageKind": "path",
+              "uid": "learn.wwl.develop-asp-core-api",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-12-29T17:37:35+00:00"
+          }
+        ],
+        "itemCount": 1,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": false,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      }
+    ],
+    "createdSkillingPlans": {
+      "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+      "skillingPlanFilter": 1,
+      "skillingPlans": [],
+      "count": 0
+    },
+    "createdLearnChallenges": {
+      "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+      "learnChallengeFilter": "all",
+      "challenges": [],
+      "count": 0
+    },
+    "userRegistrations": {
+      "id": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+      "registrations": [
+        {
+          "itemId": "z2okt18jm332xz",
+          "registrationType": 1,
+          "startedOn": "2024-12-29T17:28:36.5370218+00:00",
+          "itemsCompleted": 0,
+          "clickItemsCompleted": []
+        }
+      ],
+      "lastModified": "2025-03-25T18:26:27+00:00"
+    }
+  },
+  "XP": {
+    "xp": {
+      "docsId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+      "totalXp": 16700,
+      "currentLevel": 5,
+      "currentLevelLow": 13300,
+      "currentLevelHigh": 20999,
+      "currentLevelPointsEarned": 3400,
+      "nextLevel": 6,
+      "pointsUntilNextLevel": 4300,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 11,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 1,
+        "Plans": 0,
+        "Special": 0
+      }
+    },
+    "achievements": [
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.describe-benefits-of-using-cloud-services.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "FMYZTBGX",
+        "title": "Describe the benefits of using cloud services",
+        "imageUrl": "/training/achievements/describe-benefits-use-cloud-services.svg",
+        "locale": "en-us",
+        "verified": true,
+        "source": "Progress",
+        "grantedOn": "2025-03-25T18:26:27.693Z",
+        "url": "/training/modules/describe-benefits-use-cloud-services/",
+        "milestoneEligible": true,
+        "version": 3211
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.apply-interfaces-code.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "FVHTAAKX",
+        "title": "Apply interfaces in code",
+        "imageUrl": "/training/achievements/generic-badge.svg",
+        "locale": "en-us",
+        "verified": true,
+        "source": "Progress",
+        "grantedOn": "2025-03-25T17:51:43.577Z",
+        "url": "/training/modules/apply-interfaces-code/",
+        "milestoneEligible": true,
+        "version": 37861
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.explore-azure-functions.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "QTQY94LE",
+        "title": "Explore Azure Functions",
+        "imageUrl": "/training/achievements/1-explore-azure-functions.svg",
+        "locale": "en-us",
+        "verified": true,
+        "source": "Progress",
+        "grantedOn": "2025-03-23T17:20:50.897Z",
+        "url": "/training/modules/explore-azure-functions/",
+        "milestoneEligible": true,
+        "version": 4397
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.discover-interfaces.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "ZKYC55Y2",
+        "title": "Discover interfaces",
+        "imageUrl": "/training/achievements/generic-badge.svg",
+        "locale": "en-us",
+        "verified": true,
+        "source": "Progress",
+        "grantedOn": "2025-02-25T19:31:14.775Z",
+        "url": "/training/modules/discover-interfaces/",
+        "milestoneEligible": true,
+        "version": 37865
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.aspnetcore-middleware.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "J9PDN6AT",
+        "title": "Customize ASP.NET Core behavior with middleware",
+        "imageUrl": "/learn/achievements/generic-badge.svg",
+        "locale": "en-us",
+        "verified": true,
+        "source": "Progress",
+        "grantedOn": "2025-02-21T18:07:00.138Z",
+        "url": "/training/modules/aspnetcore-middleware/",
+        "milestoneEligible": true,
+        "version": 17520
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.languages.csharp-choose-data-type.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "WZTAG8FN",
+        "title": "Choose the correct data type in your C# code",
+        "imageUrl": "/training/achievements/csharp-choose-data-type.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-12-29T17:24:50.845Z",
+        "url": "/training/modules/csharp-choose-data-type/",
+        "milestoneEligible": true,
+        "version": 2658
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.azdo.manage-delivery-plans.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "PSVFDTF4",
+        "title": "Manage Agile software delivery plans across teams",
+        "imageUrl": "/training/achievements/azure-devops/manage-agile-software-delivery-plans-across-teams.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-08-11T17:07:19.023Z",
+        "url": "/training/modules/manage-delivery-plans/",
+        "milestoneEligible": true,
+        "version": 2966
+      },
+      {
+        "category": "learningpaths",
+        "typeId": "learn.azdo.evolve-your-devops-practices.trophy",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "UXGKWF43",
+        "title": "Get started with Azure DevOps",
+        "imageUrl": "/training/achievements/azure-devops/evolve-your-devops-practices.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-08-11T17:07:18.976Z",
+        "url": "/training/paths/evolve-your-devops-practices/",
+        "milestoneEligible": true,
+        "version": 2738
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.azdo.choose-an-agile-approach.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "AEF6A297",
+        "title": "Choose an Agile approach to software development",
+        "imageUrl": "/training/achievements/azure-devops/choose-an-agile-approach-to-software-development.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-08-11T16:02:26.911Z",
+        "url": "/training/modules/choose-an-agile-approach/",
+        "milestoneEligible": true,
+        "version": 2361
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.get-started-with-devops.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "HY3MTBC8",
+        "title": "Introduction to Azure DevOps",
+        "imageUrl": "/training/achievements/azure-devops/get-started-with-devops.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-03-16T19:40:05.594Z",
+        "url": "/training/modules/get-started-with-devops/",
+        "milestoneEligible": true,
+        "version": 3857
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.azdo.assess-your-development-process.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "UF92K5Q3",
+        "title": "Assess your existing software development process",
+        "imageUrl": "/training/achievements/azure-devops/assess-your-software-development-process.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-03-16T19:05:27.498Z",
+        "url": "/training/modules/assess-your-development-process/",
+        "milestoneEligible": true,
+        "version": 2831
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.describe-cloud-computing.badge",
+        "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+        "id": "8X27H7XW",
+        "title": "Describe cloud computing",
+        "imageUrl": "/training/achievements/describe-cloud-compute.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2023-01-21T19:01:58.397Z",
+        "url": "/training/modules/describe-cloud-compute/",
+        "milestoneEligible": true,
+        "version": 2719
+      }
+    ]
+  },
+  "TechProfile": {
+    "email": "",
+    "locale": "en-us",
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "learn",
+    "authenticationModes": [
+      {
+        "id": "00037FFE24F39914",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "jadaunharsh92@gmail.com",
+        "oid": "00000000-0000-0000-bc88-7c849b875d94",
+        "dateAcceptedPrivacyNotice": "2022-05-09T21:40:07.4217937+00:00",
+        "dateAdded": "2022-05-09T21:40:07.4217938+00:00"
+      }
+    ],
+    "interests": {
+      "roles": [
+        "developer",
+        "devops-engineer"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "products": [
+        "dotnet",
+        "azure",
+        "github",
+        "sql-server",
+        "vs"
+      ],
+      "expandedRoles": [],
+      "expandedProducts": [],
+      "expandedSubjects": [],
+      "contentTypes": []
+    },
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": false,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "newPrivateMessage": "instant"
+      }
+    },
+    "sharingId": "98E951A2667E426C",
+    "userId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+    "userName": "HarshPratapSingh-9728",
+    "displayName": "Harsh Pratap Singh",
+    "isPrivate": false,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "5/9/2022 9:40:07 PM"
+  },
+  "SkillAssessment": null,
+  "Q&A": {
+    "docsId": "8e73d7cb-73ec-41f5-892c-b8678743bf1a",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "Certifications": null
+}
