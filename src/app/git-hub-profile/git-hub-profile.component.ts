@@ -20,10 +20,10 @@ export class GitHubProfileComponent {
 
 
   constructor(private gitApiCallService: GitApiCallService) {
-    // this.gitApiCallService.getUserData(this.githubUsername).then((data: any) => {
-    //   this.userData = data;
-    //   console.log(this.userData);
-    // });
+    this.gitApiCallService.getUserData(this.githubUsername).then((data: any) => {
+      this.userData = data;
+      console.log(this.userData);
+    });
 
     // this.gitApiCallService.getContributions(this.githubUsername).then((data: any) => {
     //   this.contributions = data;
