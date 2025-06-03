@@ -12,21 +12,21 @@
 }
 
 /* Apply flex row and wrap */
-.custom-row {
+/* .custom-row {
     display: flex;
     flex-wrap: wrap;
-}
+} */
 
 /* Default: < 768px (mobile) = 2 columns */
 .custom-row-cols-responsive>* {
-    flex: 0 0 auto;
-    width: 50%;
+    /* flex: 0 0 auto; */
+    width: 25%;
 }
 
 /* >= 768px (md and above) = 4 columns */
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .custom-row-cols-responsive>* {
-        width: 25%;
+        width: 50%;
     }
 }
 

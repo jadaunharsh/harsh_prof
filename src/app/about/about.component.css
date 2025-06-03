@@ -22,3 +22,20 @@
 .btn:hover {
     transform: translateY(-2px);
 }
+
+/* >= 768px (md and above) = 4 columns */
+@media (max-width: 768px) {
+    .btn {
+        font-weight: 500;
+        padding: 0.3rem 0.8rem;
+        transition: all 0.3s ease;
+    }
+}
+
+@media (max-width: 400px) {
+    .btn {
+        font-weight: 500;
+        padding: 0.1rem 0.4rem;
+        transition: all 0.3s ease;
+    }
+}
