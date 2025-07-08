@@ -1,0 +1,48 @@
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+
+
+            <h2 class="text-center">Add Blog</h2>
+
+            <!-- <div class="col-md-8 mb-4"> -->
+            <form [formGroup]="blogForm" (ngSubmit)="onSubmit()">
+                <div class="form-group mb-4">
+                    <label for="title">Title</label>
+                    <input type="text" class="form-control" id="title" formControlName="title">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="sub-title">Sub Title</label>
+                    <input type="text" class="form-control" id="sub-title" formControlName="subTitle">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="content">Content</label>
+                    <!-- <textarea class="form-control" id="content" formControlName="content"></textarea> -->
+                    <st-editor formControlName="content" [config]="config"></st-editor>
+                </div>
+                <div class="form-group mb-4">
+                    <label for="blog-image">Image</label>
+                    <input type="text" class="form-control" id="blog-image" formControlName="image">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="first-name">First Name</label>
+                    <input type="text" class="form-control" id="first-name" formControlName="firstName">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="last-name">Last Name</label>
+                    <input type="text" class="form-control" id="last-name" formControlName="lastName">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" formControlName="email">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="category">Category</label>
+                    <input type="text" class="form-control" id="category" formControlName="categoryName">
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

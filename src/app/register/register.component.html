@@ -1,0 +1,75 @@
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+
+
+            <h2 class="text-center">Register new user</h2>
+
+            <!-- <div class="col-md-8 mb-4"> -->
+            <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+                <div class="form-group mb-4">
+                    <label for="title">Firstname</label>
+                    <input type="text" class="form-control" id="firstName" formControlName="firstName">
+                    @if (firstName?.invalid && (firstName?.dirty || firstName?.touched)) {
+                    <p>
+                        @if (firstName?.hasError('required')) {
+                        <span class="text-danger">Firstname is required.</span>
+                        }
+                        @if (firstName?.hasError('minlength')) {
+                        <span class="text-danger">It must be minimum 2 character.</span>
+                        }
+                    </p>
+                    }
+                </div>
+                <div class="form-group mb-4">
+                    <label for="title">Lastname</label>
+                    <input type="text" class="form-control" id="lastName" formControlName="lastName">
+                    @if (lastName?.invalid && (lastName?.dirty || lastName?.touched)) {
+                    <p>
+                        @if (lastName?.hasError('required')) {
+                        <span class="text-danger">LastName is required.</span>
+                        }
+                        @if (lastName?.hasError('minlength')) {
+                        <span class="text-danger">It must be minimum 2 character.</span>
+                        }
+                    </p>
+                    }
+                </div>
+                <div class="form-group mb-4">
+                    <label for="title">Email</label>
+                    <input type="email" class="form-control" id="email" formControlName="email">
+                    @if (email?.invalid && (email?.dirty || email?.touched)) {
+                    <p>
+                        @if (email?.hasError('required')) {
+                        <span class="text-danger">Email is required.</span>
+                        }
+                        @if (email?.hasError('email')) {
+                        <span class="text-danger">It must be an email.</span>
+                        }
+                    </p>
+                    }
+                </div>
+                <div class="form-group mb-4">
+                    <label for="sub-title">Password</label>
+                    <input type="password" class="form-control" id="password" formControlName="password">
+                    @if (password?.invalid && (password?.dirty || password?.touched)) {
+                    <p>
+                        @if (password?.hasError('required')) {
+                        <span class="text-danger">Password is required.</span>
+                        }
+                        @if (password?.hasError('minlength')) {
+                        <span class="text-danger">Minimum length is 6.</span>
+                        }
+                    </p>
+                    }
+                </div>
+
+                <button type="submit" class="btn btn-primary">Register</button>
+                <!-- <button type="button" class="btn btn-secondary" (click)="login()">Login</button> -->
+                <br />
+                <p class="mt-3">Already have an account? <a routerLink="/login" (click)="login()">Login
+                        here</a></p>
+            </form>
+        </div>
+    </div>
+</div>

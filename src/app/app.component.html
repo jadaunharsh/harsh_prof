@@ -1,3 +1,11 @@
+@if (!isLoggedIn && !registerUser) {
+<app-login></app-login>
+}
+@else if(registerUser){
+<app-register></app-register>
+}
+@else {
 <app-header></app-header>
 <router-outlet />
 <app-footer></app-footer>
+}

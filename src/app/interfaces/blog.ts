@@ -7,5 +7,6 @@ export interface Blog {
     content: string;
     image: string;
     date: string;
-    tags: string[];
+    // tags: string[];
+    categoryName?: string;
 }

@@ -22,14 +22,14 @@ export class AboutComponent implements OnInit {
   }
 
   summary = `
-    I'm Harsh Pratap Singh, a full-stack developer with over 6 years of experience in building scalable and domain-driven applications — especially in the healthcare, infrastructure, and energy sectors. 
+    I'm Harsh Pratap Singh, a full-stack developer with over 8 years of experience in building scalable and domain-driven applications — especially in the healthcare, infrastructure, and energy sectors. 
     Passionate about solving real-world problems through clean code, strong architecture, and continuous learning.
   `;
 
   highlights = [
-    'Over 6 years of experience in full-stack development',
+    'Over 8 years of experience in full-stack development',
     // 'Currently working at DH Healthcare (Dedalus Group) as a Product Developer',
-    'Hands-on with Angular 16, ASP.NET Core, Docker, Azure DevOps, and CI/CD pipelines',
+    'Hands-on with Angular, ASP.NET Core, Docker, Azure DevOps, and CI/CD pipelines',
     'Previously contributed to infrastructure mapping and automation tools using Postgres, OpenLayers, and Geoserver',
     'Comfortable across backend, frontend, and DevOps environments',
     'Strong focus on maintainability, performance, and team collaboration'

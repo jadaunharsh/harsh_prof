@@ -6,19 +6,41 @@
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="d-flex justify-content-end " id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <!-- <div class="collapse navbar-collapse d-flex justify-content-end " id="navbarSupportedContent"> -->
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
                 <li class="nav-item">
                     <a class="nav-link text-info active" aria-current="page" href="/Home">Home</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link text-info" href="/about">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-info" href="/contact">Contact</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
-                    <a class="nav-link text-info" href="/blogs">Blogs</a>
+                    <a class="nav-link text-info" href="/blogs">AllBlogs</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link text-info dropdown-toggle" role="button" id="dropdownMenuLink"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Blog Category
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        @for (category of Categories; track $index) {
+                        <li><a class="btn dropdown-item" (click)="GetCategory(category)">{{category}}</a></li>
+                        }
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link text-info dropdown-toggle" role="button" id="dropdownMenuLink"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        {{userName}}
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <li><a class="btn dropdown-item" (click)="GetProfile()">Profile</a></li>
+                        <li><a class="btn dropdown-item" (click)="Logout()">Logout</a></li>
+                    </ul>
                 </li>
             </ul>
         </div>

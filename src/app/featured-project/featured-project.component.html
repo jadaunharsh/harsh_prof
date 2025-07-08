@@ -1,14 +1,8 @@
 <div class="row row-cols-1 custom-row custom-row-cols-responsive g-4">
 
-    @for (card of featureCards; track $index) {
+    @for (blog of paginatedBlogs; track $index) {
     <div class="col">
-        <div class="card h-100">
-            <img [src]="card.imageUrl" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">{{card.cardTitle}}</h5>
-                <p class="card-text">{{card.cardText}}</p>
-            </div>
-        </div>
+        <app-blog-card [blog]="blog"></app-blog-card>
     </div>
     }
 

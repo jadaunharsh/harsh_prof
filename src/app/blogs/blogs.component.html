@@ -1,3 +1,5 @@
+<!-- <app-header></app-header> -->
+
 <div class="container">
     <div class="row">
         <!-- First Blog -->
@@ -40,7 +42,6 @@
             @for (blog of blogs.slice(3, 5); track $index) {
             <div class="row">
                 <div class="col-12 mb-3">
-                    <!-- <app-blog-card [blog]="blog"></app-blog-card> -->
                     <app-bloglist-rightcontent [blog]="blog"></app-bloglist-rightcontent>
                 </div>
             </div>
@@ -52,12 +53,15 @@
         <div class="col-12">
             <h2 class="text-center mb-4">Features Blogs</h2>
             <div class="row">
-                @for (blog of blogs; track $index) {
+                @for (blog of paginatedBlogs; track $index) {
                 <div class="col-md-4 mb-4">
                     <app-blog-card [blog]="blog"></app-blog-card>
                 </div>
                 }
             </div>
+            <app-pagination (selectedPage)="onPageChange($event)"></app-pagination>
         </div>
     </div>
 </div>
+
+<!-- <app-footer></app-footer> -->

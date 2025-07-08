@@ -16,7 +16,12 @@ export class BlogDetailComponent {
   constructor(private route: ActivatedRoute, private blogService: BlogService) { }
 
   ngOnInit(): void {
+    debugger;
     const id = Number(this.route.snapshot.paramMap.get('id'));
-    this.blog = this.blogService.getBlogById(id);
+    // this.blog = this.blogService.getBlogById(id);
+    this.blogService.getBlogFromApiById(id)?.subscribe((blog: Blog) => {
+      this.blog = blog;
+      console.log(this.blog);
+    });
   }
 }

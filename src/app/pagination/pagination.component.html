@@ -1,0 +1,15 @@
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-end">
+        <li class="page-item" [class.disabled]="currentPage === 1">
+            <a class="page-link" (click)="onPageChange(currentPage-1)" tabindex="-1">Previous</a>
+        </li>
+        @for (item of counter(getTotalPages()); track $index) {
+        <li class="page-item" [class.active]="currentPage == $index+1"><a class="page-link"
+                (click)="onPageChange($index+1)">{{$index+1}}</a></li>
+        }
+        <li class="page-item" [class.disabled]="currentPage === getTotalPages()">
+            <a class="page-link" (click)="onPageChange(currentPage+1)">Next</a>
+        </li>
+
+    </ul>
+</nav>
