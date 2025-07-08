@@ -17,9 +17,9 @@ export class BlogDetailComponent {
 
   ngOnInit(): void {
     debugger;
-    const id = Number(this.route.snapshot.paramMap.get('id'));
+    const slug = String(this.route.snapshot.paramMap.get('slug'));
     // this.blog = this.blogService.getBlogById(id);
-    this.blogService.getBlogFromApiById(id)?.subscribe((blog: Blog) => {
+    this.blogService.getBlogFromApiById(slug)?.subscribe((blog: Blog) => {
       this.blog = blog;
       console.log(this.blog);
     });

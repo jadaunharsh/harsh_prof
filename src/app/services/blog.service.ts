@@ -24,8 +24,8 @@ export class BlogService {
     return this.http.get<Blog[]>(this.httpUrl + "/GetAllPost");
   }
 
-  getBlogFromApiById(id: number): Observable<Blog> | undefined {
-    return this.http.get<Blog>(this.httpUrl + "/GetPostDetail/?id=" + id);
+  getBlogFromApiById(slug: string): Observable<Blog> | undefined {
+    return this.http.get<Blog>(this.httpUrl + "/GetPostDetail/?slug=" + slug);
   }
 
   getBlogsPaginated(pageNumber: number, pageSize: number): Observable<Blog[]> {

@@ -24,7 +24,7 @@ export const routes: Routes = [
             import('./categorized-blogs/categorized-blogs.component')
                 .then(c => c.CategorizedBlogsComponent)
     },
-    { path: 'blog/:id', component: BlogDetailComponent },
+    { path: 'blog/:slug', component: BlogDetailComponent },
     { path: 'addblog', component: AddBlogComponent },
     { path: 'user-profile', component: UserProfileComponent },
     { path: '', redirectTo: '/home', pathMatch: 'full' }, // redirect to `home`

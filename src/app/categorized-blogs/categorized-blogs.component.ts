@@ -20,25 +20,30 @@ export class CategorizedBlogsComponent {
   constructor(private blogService: BlogService, private route: ActivatedRoute) { }
 
   ngOnInit(): void {
-    this.category = this.route.snapshot.paramMap.get('category')!;
     this.blogService.pageSize.next(categoryPageSize);
-    this.blogService.getPostCountByCategory(this.category).subscribe({
+    this.route.paramMap.subscribe(routeParam => {
+      this.getPostCountByCategory(routeParam.get('category')!);
+      this.getPaginatedBlogs(routeParam.get('category')!, categoryPageIndex, categoryPageSize);
+      this.category = routeParam.get('category')!;
+    })
+
+
+  }
+
+  getPostCountByCategory(category: string) {
+    this.blogService.getPostCountByCategory(category).subscribe({
       next: (data) => {
         console.log('getPostCountByCategory: ', data);
-        // this.blogService.totalBlogs = data;
         this.blogService.totalBlogs.next(data);
       },
       error: (err) => {
         console.error(err);
       }
     })
-
-    this.getPaginatedBlogs(categoryPageIndex, categoryPageSize);
   }
 
-
-  getPaginatedBlogs(pageIndex: number, pageSize: number): void {
-    this.blogService.getPostByCategory(this.category, pageIndex, pageSize).pipe(
+  getPaginatedBlogs(category: string, pageIndex: number, pageSize: number): void {
+    this.blogService.getPostByCategory(category, pageIndex, pageSize).pipe(
       map((blogs: Blog[]) => {
         this.paginatedBlogs = blogs;
         return blogs;
@@ -52,6 +57,6 @@ export class CategorizedBlogsComponent {
   }
 
   onPageChange(page: number): void {
-    this.getPaginatedBlogs(page, categoryPageSize);
+    this.getPaginatedBlogs(this.category, page, categoryPageSize);
   }
 }

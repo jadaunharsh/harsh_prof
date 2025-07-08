@@ -5,7 +5,7 @@
         <p class="card-text">{{ blog.subtitle }}</p>
         <small class="text-muted">By {{ blog.author }} | {{ blog.date | date }} | {{ blog.categoryName }}</small>
         <div class="mt-3">
-            <a [routerLink]="['/blog', blog.id]" class="btn btn-outline-primary btn-sm">Read More</a>
+            <a [routerLink]="['/blog', blog.slug]" class="btn btn-outline-primary btn-sm">Read More</a>
         </div>
     </div>
 </div>
